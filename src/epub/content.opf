@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/margaret-oliphant/a-country-gentleman-and-his-family</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-27T00:08:41Z</dc:date>
+		<meta property="dcterms:modified">2025-01-27T00:08:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,16 +34,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">After their father’s death, a young man and his two older sisters follow very different paths in love and life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;When Theo Warrender goes up to Oxford, great things are expected. His bright prospects dim as he arrogantly believes his own idiosyncratic reading choices are to be preferred to his tutor’s guidance. In any case, his studies are cut short when he is summoned home to be present for his elderly father’s dying moments. Natural sadness meets tragedy when the young Lord Markland is killed after attending the funeral, leaving behind a beautiful young widow and their precocious son, Geoff.&lt;/p&gt;
-			&lt;p&gt;These ingredients set in motion a remarkable novel which appears to have no central plot. Theo’s story is simply the starting point for exploring the character and choices of those in his family and network who are observed at this moment of change. Theo’s mother, now a middle-aged widow, has chafed under the boredom of her elderly husband’s placid existence. Theo’s older sisters, the priggish Minnie and the pliable Chatty, are both of an age when marriage and managing their own households is expected.&lt;/p&gt;
-			&lt;p&gt;There is a richness of domestic wisdom and experience notable in the work of &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant&lt;/a&gt; that goes beyond that of her better known contemporaries. The prospects dashed by her own sons’ wasted gifts contribute to her sharp, unflinching account of Theo’s development, while her long experience of widowhood adds depth to the portrayal of the middled-aged Mrs. Warrender—now hopeful of a more fulfilled life—as well as the conundrums facing the young Lady Markland. Unusually, the boy Geoff plays a major role in the story: his foibles, hopes, and preternatural wisdom make for a compelling characterization of a child whose world is being transformed beyond his control or understanding.&lt;/p&gt;
-			&lt;p&gt;As contemporary appreciation for Oliphant’s fiction continues to grow, not every one of her more than ninety novels deserves a reading (as Oliphant in her memoir readily acknowledged). But in &lt;i&gt;A Country Gentleman and His Family&lt;/i&gt;, Oliphant’s imagination and vision impressively extend her own experience in her narrative art. It even holds a prescient aspect, given the pre-Freudian psychological situations she portrays—along with what today would be called narcissism and gas-lighting—and the moral challenges her characters face, with their sometimes unconventional choices.&lt;/p&gt;
+			&lt;p&gt;When Theo Warrender goes up to Oxford, great things are expected—but his prospects dim as he arrogantly believes his own idiosyncratic reading choices are better than his tutor’s guidance. In any case, his studies are cut short when he’s summoned home for his elderly father’s dying moments. Grief meets tragedy when the young Lord Markland is killed after attending the funeral, leaving behind a beautiful young widow and their precocious son, Geoff.&lt;/p&gt;
+			&lt;p&gt;These ingredients set in motion a remarkable novel which appears to have no central plot. Theo’s story is simply the starting point for exploring the character and choices of those in his family and social network who are there at this moment of change. Theo’s mother, now a middle-aged widow, has chafed under the boredom of her elderly husband’s placid existence, while Theo’s older sisters are both of an age when marriage and managing their own households is expected.&lt;/p&gt;
+			&lt;p&gt;There is a richness of domestic wisdom and experience notable in the work of &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant&lt;/a&gt; that goes beyond that of her better-known contemporaries. The prospects dashed by her own sons’ wasted gifts contribute to her sharp, unflinching account of Theo’s development, while her long experience of widowhood adds depth to the portrayal of the middle-aged Mrs. Warrender and the conundrums facing the young Lady Markland. Unusually, the boy Geoff plays a major role in the story: his foibles, hopes, and preternatural wisdom make for a compelling characterization of a child whose world is being transformed beyond his control or understanding.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;A Country Gentleman and His Family&lt;/i&gt;, Oliphant’s imagination and vision impressively extend her own experience into her narrative art. It even has a prescient aspect, given the pre-Freudian psychological situations she portrays (along with what today would be called narcissism and gas-lighting) and the moral challenges her characters face.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30835</dc:source>
 		<dc:source>https://archive.org/details/countrygentleman00oliprich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">168489</meta>
+		<meta property="se:reading-ease.flesch">77.77</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_a-country-gentleman-and-his-family</meta>
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
 		<meta property="file-as" refines="#author">Oliphant, Margaret</meta>
@@ -72,6 +72,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
