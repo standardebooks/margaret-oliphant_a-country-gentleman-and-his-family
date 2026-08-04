@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107201</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>After their father’s death, a young man and his two older sisters follow very different paths in love and life.</dc:abstract>
+		<meta property="schema:abstract">After their father’s death, a young man and his two older sisters follow very different paths in love and life.</meta>
 		<dc:description>
 			&lt;p&gt;When Theo Warrender goes up to Oxford, great things are expected—but his prospects dim as he arrogantly believes his own idiosyncratic reading choices are better than his tutor’s guidance. In any case, his studies are cut short when he’s summoned home for his elderly father’s dying moments. Grief meets tragedy when the young Lord Markland is killed after attending the funeral, leaving behind a beautiful young widow and their precocious son, Geoff.&lt;/p&gt;
 			&lt;p&gt;These ingredients set in motion a remarkable novel which appears to have no central plot. Theo’s story is simply the starting point for exploring the character and choices of those in his family and social network who are there at this moment of change. Theo’s mother, now a middle-aged widow, has chafed under the boredom of her elderly husband’s placid existence, while Theo’s older sisters are both of an age when marriage and managing their own households is expected.&lt;/p&gt;
